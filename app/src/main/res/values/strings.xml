@@ -18,40 +18,40 @@
     <string name="paint">Paint</string>
     <string name="action_draw">Draw</string>
 
-	<!-- Used in MainActivity.java -->
-	<string name="search_hint">Search notes…</string>
-	<string name="confirmation">Are you sure?</string>
-	<string name="close_app">Close Application</string>
-	<string name="delete_note_number">Delete note #%d</string>
-	<string name="note_deleted">Note #%d deleted</string>
-	<string name="delete_notes_title">Delete all notes</string>
-	<string name="delete_notes_success">All notes have been deleted!</string>
-	<string name="choose_activity">Choose action for note #%d</string>
+    <!-- Used in MainActivity.java -->
+    <string name="search_hint">Search notes…</string>
+    <string name="confirmation">Are you sure?</string>
+    <string name="close_app">Close Application</string>
+    <string name="delete_note_number">Delete note #%d</string>
+    <string name="note_deleted">Note #%d deleted</string>
+    <string name="delete_notes_title">Delete all notes</string>
+    <string name="delete_notes_success">All notes have been deleted!</string>
+    <string name="choose_activity">Choose action for note #%d</string>
 
-	<!-- Used in NoteActivity.java -->
-	<string name="save_note_title">Save note</string>
-	<string name="save_note_confirmation">Do you want to save changes?</string>
+    <!-- Used in NoteActivity.java -->
+    <string name="save_note_title">Save note</string>
+    <string name="save_note_confirmation">Do you want to save changes?</string>
 
-	<!-- Used in NoteAdapter.java -->
-	<string name="note_number">Note No: %d</string>
-	<string name="note_has_no_text">Note has no text.</string>
+    <!-- Used in NoteAdapter.java -->
+    <string name="note_number">Note No: %d</string>
+    <string name="note_has_no_text">Note has no text.</string>
 
 
-	<!-- Shared between MainActivity.java & NoteActivity.java -->
-	<string name="ok_button">OK</string>
-	<string name="cancel_button">Cancel</string>
+    <!-- Shared between MainActivity.java & NoteActivity.java -->
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
 
-	<!-- Used in SaveOrUpdateNoteTask.java -->
-	<string name="toast_note_created">Note created</string>
-	<string name="toast_note_updated">Note updated</string>
-	<string name="last_updated">Last updated</string>
+    <!-- Used in SaveOrUpdateNoteTask.java -->
+    <string name="toast_note_created">Note created</string>
+    <string name="toast_note_updated">Note updated</string>
+    <string name="last_updated">Last updated</string>
 
-	<!-- Used in content_draw_panel.xml -->
-	<string name="draw_options">Draw options:</string>
-	<string name="brush_color">Brush color:</string>
-	<string name="brush_size">Brush size:</string>
+    <!-- Used in content_draw_panel.xml -->
+    <string name="draw_options">Draw options:</string>
+    <string name="brush_color">Brush color:</string>
+    <string name="brush_size">Brush size:</string>
 
-	<!-- Used in content_text_format.xml -->
-	<string name="text_color">Text color:</string>
-	<string name="style">Style:</string>
+    <!-- Used in content_text_format.xml -->
+    <string name="text_color">Text color:</string>
+    <string name="style">Style:</string>
 </resources>

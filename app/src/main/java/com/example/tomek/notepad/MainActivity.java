@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
 
                 ArrayList<Note> filteredNotesArrayList = new ArrayList<>();
                 for (Note note : allNotesSearchArray) {
-                    if (note.getRawText().contains(newText)) {
+                    if (note.getRawText().contains(newText) || note.getTitle().contains(newText)) {
                         filteredNotesArrayList.add(note);
                     }
                 }
